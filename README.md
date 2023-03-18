@@ -1,4 +1,4 @@
-# Usborne_80s_Programming
+# Usborne 80s Programming
 Code from 1980s programming books, rewritten in many modern languages.
 
 Usborne shared their 1980s books (https://usborne.com/gb/books/computer-and-coding-books). 
