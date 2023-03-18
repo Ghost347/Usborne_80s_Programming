@@ -3,7 +3,7 @@ Code from 1980s programming books, rewritten in many modern languages.
 
 Usborne shared their 1980s books (https://usborne.com/gb/books/computer-and-coding-books). 
 
-This repo is for people to rewrite those old programs in different programming languages:
+The idea of this report is to rewrite those old programs in many of the modern programming languages.
 
 ## Copyright notice
 
