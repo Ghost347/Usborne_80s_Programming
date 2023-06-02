@@ -1,6 +1,5 @@
 import random
 import msvcrt
-import numpy as np
 
 
 def main():
